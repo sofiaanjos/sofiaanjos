@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background: linear-gradient(40deg, white 20%, black 80%);
+    width: 100vw;
+    height: 100vh;
+}
+
+.NavBar {
+    width: 100vw;
+    height: 60px;
+    background-color: black;
+}
